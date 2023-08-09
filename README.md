@@ -15,9 +15,28 @@ en effet les premiers algorithmes qu'on va utiliser, nous permetterons d'avoir u
 la deuxième partie, qui va être d'une importance capitale, car c'est celle qu'on va rétenir les résultat, du fait de la robustesse des algorithmes de Tensorflow et Bert.
 
 ## DÉVELOPPEMENT 
-#### Observation:
+#### Observation des données:
 Nos données, comme on va le voit dans l'image suivant, est composé d'identifiant(id) pour chaque tweet, de mot clé (keyword) du tweet, de texte (text) qui est le tweet et enfin un target (0 ou 1). les target donne la nature du tweet( urgent==1 et normal==0).
+[image...]
+
+#### utilisation des méthodes dites classiques: RandomForestClassifier, SVM, et MultinomialNB:
+les trois algorithmes cités précedement, sont pratiques pour l'initiation et l'application de la classification sur les NLPs. 
+Les algorithmes RandomForestClassifier, SVM (Support Vector Machine) et MultinomialNB (Naive Bayes multinomial) sont des techniques d'apprentissage automatique largement utilisées pour résoudre des problèmes de classification et d'analyse de données. Chacun de ces algorithmes possède ses propres caractéristiques et avantages, les rendant pertinents dans divers contextes. Nous explorerons  chaque algorithme pour le domaine de l'analyse de texte et du traitement du langage naturel.
+
+dans le graphes suivant on peut voir l'éfficacité de chaque modèle(celui qui se rapproche le plus de la réalité):
+[image...]
+
+#### utilisation de Tensorflow et Bert:
+autant les trois algorithmes précedement sont sont utiles et pratiques pour un introduction aux NLPs. autant Tensorflow et Bert sont utiles pour comprendre les résaux de neurones profond (deep learning). par conséquent Tensorflow et Bert, nous permetterons d'avoir de meilleurs résultats.
+On ne va pas aller trop en profondeur sur Tensorflow et Bert
+
+Tensorflow et BERT sont des outils avancés pour l’apprentissage en profondeur (deep learning) et peuvent être utilisés pour des tâches plus complexes. Bien que ces outils puissent offrir de meilleurs résultats, ils nécessitent également une expertise plus avancée pour être utilisés efficacement. Ils sont souvent utilisés pour la classification de texte et d’autres tâches de traitement du langage nature
+
+le graphe suivant montre une amélioration net ( le graphes important est celle de la prédiction prediction_75):
+[images...]
 
 
+## CONCLUSION
+l'utilisation d'algorithme de classification classic comme RandomForestClassifier, SVM et MultinomialNB, ou les algorithmes du deep learning avec tensorflow et Bert. permet de faire beaucoups de chose comme la classification qu'on a fait, et c'est efficace. Mais souvent il faut avoir plus d'efficacité, il y a des domaines comme le nucléaire, la santé  etc.. qui peuvent necessiter une classification plus précise. dans ce cas on peut améliorer les modèles vu plus hauts, sur plusieurs point: travailler sur le futuring ingenering, manipuler les metaparamètres etc... ou encore utiliser plus d'algorithmes récent .  
 
 
