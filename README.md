@@ -3,7 +3,7 @@
 
 ## INTRODUCTION
 le sujet de notre de notre exercice est tiré d un challenge Kaggle: [Natural Language Processing with Disaster Tweets 
-(Traitement automatique du langage naturel avec des tweets de catastrophe)](https://www.kaggle.com/competitions/nlp-getting-started/overview).
+(Traitement automatique du langage naturel avec des tweets de catastrophe)](https://www.kaggle.com/competitions/nlp-getting-started).
 on est amené à donner un algorithme de classification de tweet, en tweet urgent et  normal. On va donner plusieurs algorithmes de classification pour la résolution du problème.
 
 Le plan de developement de notre projet peu ce diviser en 3 grandes parties:
