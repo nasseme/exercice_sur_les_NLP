@@ -34,7 +34,9 @@ dans le graphes suivant on peut voir l'éfficacité de chaque modèle(celui qui 
 
 #### utilisation de Tensorflow et Bert:
 autant les trois algorithmes précedement sont sont utiles et pratiques pour un introduction aux NLPs. autant Tensorflow et Bert sont utiles pour comprendre les résaux de neurones profond (deep learning). par conséquent Tensorflow et Bert, nous permetterons d'avoir de meilleurs résultats.
-On ne va pas aller trop en profondeur sur Tensorflow et Bert
+On ne va pas aller trop en profondeur sur Tensorflow et Bert.
+
+les résultats de cette partie, seront les résultats utilisé pour la prédictions finale.
 
 Tensorflow et BERT sont des outils avancés pour l’apprentissage en profondeur (deep learning) et peuvent être utilisés pour des tâches plus complexes. Bien que ces outils puissent offrir de meilleurs résultats, ils nécessitent également une expertise plus avancée pour être utilisés efficacement. Ils sont souvent utilisés pour la classification de texte et d’autres tâches de traitement du langage nature
 
@@ -44,19 +46,23 @@ le graphe suivant montre une amélioration net ( le graphes important est celle 
 ![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/tensorflow.png)
 
 
-[ LIEN DU CODE LA PARTIE: TENSORFLOW ET BERT ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/TENSORFLOW.ipynb)) 
+[ LIEN DU CODE DE LA PARTIE: TENSORFLOW ET BERT ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/TENSORFLOW.ipynb) 
 
 
 ## CONCLUSION
 l'utilisation d'algorithme de classification classic comme RandomForestClassifier, SVM et MultinomialNB, ou les algorithmes du deep learning avec tensorflow et Bert. permet de faire beaucoups de chose comme la classification qu'on a fait et c'est efficace, surtout la partie Deep learning. Mais souvent il faut avoir plus d'efficacité, il y a des domaines comme le nucléaire, la santé  etc.. qui peuvent necessiter une classification plus précise. dans ce cas on peut améliorer les modèles vu plus hauts, sur plusieurs point: travailler sur le futuring ingenering, manipuler les metaparamètres etc... ou encore utiliser plus d'algorithmes récent .
 
 
-[çi dessous ce trouves les données pour l'apprentissages et la validation du modèle](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb)
+
+## çi dessous ce trouves les données pour l'apprentissages et la validation du modèle
+
+    [-données d'entrainnement ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/train.csv)
+    [-données de test ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/test.csv)
+    [-données résultat(sample_submission) ]((https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/sample_submission.csv)
 
 
+## çi dessous ce trouves les données résultant de notre modèle](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb)
 
-
-[çi dessous ce trouves les données résultant de notre modèle](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb)
-
+    [-données prédiction par mon modèle final  ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/submission_final.csv)
 
 
