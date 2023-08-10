@@ -58,11 +58,10 @@ l'utilisation d'algorithme de classification classic comme RandomForestClassifie
 
 [-données d'entrainnement ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/train.csv)
 [-données de test ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/test.csv)
-[-données résultat(sample_submission) ]((https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/sample_submission.csv)
+[-données résultat(sample_submission) ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/sample_submission.csv)
 
 
-### çi dessous ce trouves les données résultant de notre modèle](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb)
+### çi dessous ce trouves les données résultant de notre modèle
 
 [-données prédiction par mon modèle final  ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/submission_final.csv)
-
 
