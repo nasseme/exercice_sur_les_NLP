@@ -27,7 +27,10 @@ dans le graphes suivant on peut voir l'éfficacité de chaque modèle(celui qui 
 ![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/1er%20parti.png)
 ![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/2eme%20partie.png)
 
-[lien du code python de ce projet](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb) 
+
+[ LIEN DU CODE LA PARTIE: RFC,SVM ET MULTINOMIALNB  ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb) 
+
+
 
 #### utilisation de Tensorflow et Bert:
 autant les trois algorithmes précedement sont sont utiles et pratiques pour un introduction aux NLPs. autant Tensorflow et Bert sont utiles pour comprendre les résaux de neurones profond (deep learning). par conséquent Tensorflow et Bert, nous permetterons d'avoir de meilleurs résultats.
@@ -36,9 +39,24 @@ On ne va pas aller trop en profondeur sur Tensorflow et Bert
 Tensorflow et BERT sont des outils avancés pour l’apprentissage en profondeur (deep learning) et peuvent être utilisés pour des tâches plus complexes. Bien que ces outils puissent offrir de meilleurs résultats, ils nécessitent également une expertise plus avancée pour être utilisés efficacement. Ils sont souvent utilisés pour la classification de texte et d’autres tâches de traitement du langage nature
 
 le graphe suivant montre une amélioration net ( le graphes important est celle de la prédiction prediction_75):
+
+
 ![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/tensorflow.png)
 
+
+[ LIEN DU CODE LA PARTIE: TENSORFLOW ET BERT ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/TENSORFLOW.ipynb)) 
+
+
 ## CONCLUSION
-l'utilisation d'algorithme de classification classic comme RandomForestClassifier, SVM et MultinomialNB, ou les algorithmes du deep learning avec tensorflow et Bert. permet de faire beaucoups de chose comme la classification qu'on a fait et c'est efficace, surtout la partie Deep learning. Mais souvent il faut avoir plus d'efficacité, il y a des domaines comme le nucléaire, la santé  etc.. qui peuvent necessiter une classification plus précise. dans ce cas on peut améliorer les modèles vu plus hauts, sur plusieurs point: travailler sur le futuring ingenering, manipuler les metaparamètres etc... ou encore utiliser plus d'algorithmes récent .  
+l'utilisation d'algorithme de classification classic comme RandomForestClassifier, SVM et MultinomialNB, ou les algorithmes du deep learning avec tensorflow et Bert. permet de faire beaucoups de chose comme la classification qu'on a fait et c'est efficace, surtout la partie Deep learning. Mais souvent il faut avoir plus d'efficacité, il y a des domaines comme le nucléaire, la santé  etc.. qui peuvent necessiter une classification plus précise. dans ce cas on peut améliorer les modèles vu plus hauts, sur plusieurs point: travailler sur le futuring ingenering, manipuler les metaparamètres etc... ou encore utiliser plus d'algorithmes récent .
+
+
+[çi dessous ce trouves les données pour l'apprentissages et la validation du modèle](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb)
+
+
+
+
+[çi dessous ce trouves les données résultant de notre modèle](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb)
+
 
 
