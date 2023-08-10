@@ -4,7 +4,8 @@
 
 ## Mise en œuvre et Github :
 
-Pour rendre ma stratégie et mes codes accessibles à tous, j'ai créé cette page Github dédiée à ce projet. Sur cette page, vous trouverez :
+Pour rendre ma stratégie et mes codes accessibles à tous, j'ai créé cette page Github . 
+Sur cette page vous trouverez :
 
 il y a description détaillée de ma stratégie, expliquant les raisons derrière chaque choix méthodologique.
 Des notebooks Jupyter ou des scripts Python/R pour chaque étape de ma démarche, y compris la préparation des données, la modélisation avec les méthodes classiques, ainsi que l'utilisation de Tensorflow et Bert.
