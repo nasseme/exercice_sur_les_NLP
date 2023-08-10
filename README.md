@@ -27,7 +27,7 @@ dans le graphes suivant on peut voir l'éfficacité de chaque modèle(celui qui 
 ![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/1er%20parti.png)
 ![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/2eme%20partie.png)
 
-[lien du code python de ce projet]() 
+[lien du code python de ce projet](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb) 
 
 #### utilisation de Tensorflow et Bert:
 autant les trois algorithmes précedement sont sont utiles et pratiques pour un introduction aux NLPs. autant Tensorflow et Bert sont utiles pour comprendre les résaux de neurones profond (deep learning). par conséquent Tensorflow et Bert, nous permetterons d'avoir de meilleurs résultats.
