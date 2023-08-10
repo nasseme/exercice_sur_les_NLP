@@ -17,18 +17,18 @@ la deuxième partie, qui va être d'une importance capitale, car c'est celle qu'
 ## DÉVELOPPEMENT 
 #### Observation des données:
 Nos données, comme on va le voit dans l'image suivant, est composé d'identifiant(id) pour chaque tweet, de mot clé (keyword) du tweet, de texte (text) qui est le tweet et enfin un target (0 ou 1). les target donne la nature du tweet( urgent==1 et normal==0).
-![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/text.png)
+![](/images/text.png)
 
 #### utilisation des méthodes dites classiques: RandomForestClassifier, SVM, et MultinomialNB:
 les trois algorithmes cités précedement, sont pratiques pour l'initiation et l'application de la classification sur les NLPs. 
 Les algorithmes RandomForestClassifier, SVM (Support Vector Machine) et MultinomialNB (Naive Bayes multinomial) sont des techniques d'apprentissage automatique largement utilisées pour résoudre des problèmes de classification et d'analyse de données. Chacun de ces algorithmes possède ses propres caractéristiques et avantages, les rendant pertinents dans divers contextes. Nous explorerons  chaque algorithme pour le domaine de l'analyse de texte et du traitement du langage naturel.
 
 dans le graphes suivant on peut voir l'éfficacité de chaque modèle(celui qui se rapproche le plus de la réalité):
-![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/1er%20parti.png)
-![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/2eme%20partie.png)
+![](/images/1er%20parti.png)
+![](/images/2eme%20partie.png)
 
 
-[ LIEN DU CODE LA PARTIE: RFC,SVM ET MULTINOMIALNB  ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/CLASSIC.ipynb) 
+[ LIEN DU CODE LA PARTIE: RFC,SVM ET MULTINOMIALNB  ](/codes/CLASSIC.ipynb) 
 
 
 
@@ -43,10 +43,10 @@ Tensorflow et BERT sont des outils avancés pour l’apprentissage en profondeur
 le graphe suivant montre une amélioration net ( le graphes important est celle de la prédiction prediction_75):
 
 
-![](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/images/tensorflow.png)
+![](/images/tensorflow.png)
 
 
-[ LIEN DU CODE DE LA PARTIE: TENSORFLOW ET BERT ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/codes/TENSORFLOW.ipynb) 
+[ LIEN DU CODE DE LA PARTIE: TENSORFLOW ET BERT ](/codes/TENSORFLOW.ipynb) 
 
 
 ## CONCLUSION
@@ -56,12 +56,12 @@ l'utilisation d'algorithme de classification classic comme RandomForestClassifie
 
 ### çi dessous ce trouves les données pour l'apprentissages et la validation du modèle
 
-[-données d'entrainnement ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/train.csv) <br>
-[-données de test ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/test.csv) <br>
-[-données résultat(sample_submission) ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/sample_submission.csv) <br>
+[-données d'entrainnement ](/DONN%C3%89ES/train.csv) <br>
+[-données de test ](/DONN%C3%89ES/test.csv) <br>
+[-données résultat(sample_submission) ](/DONN%C3%89ES/sample_submission.csv) <br>
 
 
 ### çi dessous ce trouves les données résultant de notre modèle
 
-[-données prédiction par mon modèle final  ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/submission_final.csv)
+[-données prédiction par mon modèle final  ](/DONN%C3%89ES/submission_final.csv)
 
