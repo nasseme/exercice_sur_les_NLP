@@ -56,9 +56,9 @@ l'utilisation d'algorithme de classification classic comme RandomForestClassifie
 
 ### çi dessous ce trouves les données pour l'apprentissages et la validation du modèle
 
-[-données d'entrainnement ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/train.csv)
-[-données de test ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/test.csv)
-[-données résultat(sample_submission) ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/sample_submission.csv)
+[-données d'entrainnement ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/train.csv) <br>
+[-données de test ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/test.csv) <br>
+[-données résultat(sample_submission) ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/DONN%C3%89ES/sample_submission.csv) <br>
 
 
 ### çi dessous ce trouves les données résultant de notre modèle
