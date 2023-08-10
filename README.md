@@ -4,12 +4,11 @@
 
 ## Mise en œuvre et Github :
 
-Pour rendre ma stratégie et mes codes accessibles à tous, j'ai créé cette page Github . 
-Sur cette page vous trouverez :
+Pour rendre ma stratégie et mes codes accessibles à tous, j'ai créé cette page Github. 
 
-il y a description détaillée de ma stratégie, expliquant les raisons derrière chaque choix méthodologique.
-Des notebooks Jupyter ou des scripts Python/R pour chaque étape de ma démarche, y compris la préparation des données, la modélisation avec les méthodes classiques, ainsi que l'utilisation de Tensorflow et Bert.
-Les résultats obtenus à chaque étape, y compris les performances des différents modèles.
+Sur cette page vous trouverez :
+la description  de ma stratégie et un lien vers mon mémoire pour plus détails, expliquant les raisons derrière chaque choix méthodologique.
+Des notebooks Jupyter ou des scripts Python pour chaque étape de ma démarche, y compris la préparation des données, la modélisation avec les méthodes classiques, ainsi que l'utilisation de Tensorflow et Bert. Les résultats obtenus à chaque étape, y compris les performances des différents modèles.
 Les liens vers les données d'apprentissage, de test et les résultats de prédiction générés par mon modèle final.
 
 Je suis engagé à maintenir et mettre à jour cette page pour assurer sa pertinence et son utilité à la fois pour le challenge et pour ceux qui souhaitent en apprendre davantage sur les méthodes d'analyse de données et de traitement du langage naturel.
@@ -18,6 +17,9 @@ Je vous remercie encore une fois pour cette opportunité passionnante et j'atten
 
 Cordialement,
 Nasseme Ahamed
+
+## MÉMOIRE
+[LIEN VERS LE MÉMOIRE ](/M%C3%A9moire%20sur%20le%20data%20chalenge%20kaggle%20suivant.docx)
 
 ## INTRODUCTION
 le sujet de notre de notre exercice est tiré d un challenge Kaggle: [Natural Language Processing with Disaster Tweets 
