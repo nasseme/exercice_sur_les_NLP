@@ -1,6 +1,23 @@
 # Presentation de l'exercice sur les_NLP
 #### *Mon premier Projet sur les NLPs, pour mon mémoire de fin d'année  master 1 (2022-2023)*
 
+
+## Mise en œuvre et Github :
+
+Pour rendre ma stratégie et mes codes accessibles à tous, j'ai créé cette page Github dédiée à ce projet. Sur cette page, vous trouverez :
+
+il y a description détaillée de ma stratégie, expliquant les raisons derrière chaque choix méthodologique.
+Des notebooks Jupyter ou des scripts Python/R pour chaque étape de ma démarche, y compris la préparation des données, la modélisation avec les méthodes classiques, ainsi que l'utilisation de Tensorflow et Bert.
+Les résultats obtenus à chaque étape, y compris les performances des différents modèles.
+Les liens vers les données d'apprentissage, de test et les résultats de prédiction générés par mon modèle final.
+
+Je suis engagé à maintenir et mettre à jour cette page pour assurer sa pertinence et son utilité à la fois pour le challenge et pour ceux qui souhaitent en apprendre davantage sur les méthodes d'analyse de données et de traitement du langage naturel.
+
+Je vous remercie encore une fois pour cette opportunité passionnante et j'attends avec impatience vos commentaires et suggestions.
+
+Cordialement,
+Nasseme Ahamed
+
 ## INTRODUCTION
 le sujet de notre de notre exercice est tiré d un challenge Kaggle: [Natural Language Processing with Disaster Tweets 
 (Traitement automatique du langage naturel avec des tweets de catastrophe)](https://www.kaggle.com/competitions/nlp-getting-started).
@@ -16,11 +33,11 @@ la deuxième partie, qui va être d'une importance capitale, car c'est celle qu'
 
 ## DÉVELOPPEMENT 
 #### Observation des données:
-Nos données, comme on va le voit dans l'image suivant, est composé d'identifiant(id) pour chaque tweet, de mot clé (keyword) du tweet, de texte (text) qui est le tweet et enfin un target (0 ou 1). les target donne la nature du tweet( urgent==1 et normal==0).
+Nos données, comme on va le voir dans l'image suivante, sont composées d'identifiant(id) pour chaque tweet, de mot clé (keyword) du tweet, de texte (text) qui est le tweet et enfin un target (0 ou 1). les target donne la nature du tweet( urgent==1 et normal==0). Cette étape m'a permis de comprendre la nature du problème et les caractéristiques des données
 ![](/images/text.png)
 
 #### utilisation des méthodes dites classiques: RandomForestClassifier, SVM, et MultinomialNB:
-les trois algorithmes cités précedement, sont pratiques pour l'initiation et l'application de la classification sur les NLPs. 
+RandomForestClassifier, SVM et MultinomialNB, sont pratiques pour l'initiation et l'application de la classification sur les NLPs. 
 Les algorithmes RandomForestClassifier, SVM (Support Vector Machine) et MultinomialNB (Naive Bayes multinomial) sont des techniques d'apprentissage automatique largement utilisées pour résoudre des problèmes de classification et d'analyse de données. Chacun de ces algorithmes possède ses propres caractéristiques et avantages, les rendant pertinents dans divers contextes. Nous explorerons  chaque algorithme pour le domaine de l'analyse de texte et du traitement du langage naturel.
 
 dans le graphes suivant on peut voir l'éfficacité de chaque modèle(celui qui se rapproche le plus de la réalité):
@@ -34,7 +51,6 @@ dans le graphes suivant on peut voir l'éfficacité de chaque modèle(celui qui 
 
 #### utilisation de Tensorflow et Bert:
 autant les trois algorithmes précedement sont sont utiles et pratiques pour un introduction aux NLPs. autant Tensorflow et Bert sont utiles pour comprendre les résaux de neurones profond (deep learning). par conséquent Tensorflow et Bert, nous permetterons d'avoir de meilleurs résultats.
-On ne va pas aller trop en profondeur sur Tensorflow et Bert.
 
 les résultats de cette partie, seront les résultats utilisé pour la prédictions finale.
 
