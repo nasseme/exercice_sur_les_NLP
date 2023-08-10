@@ -19,7 +19,7 @@ Cordialement,
 Nasseme Ahamed
 
 ## MÉMOIRE
-[LIEN VERS LE MÉMOIRE ](https://github.com/nasseme/exercice_sur_les_NLP/blob/main/M%C3%A9moire.pdf)
+[LIEN VERS LE MÉMOIRE ](/M%C3%A9moire.pdf)
 
 ## INTRODUCTION
 le sujet de notre de notre exercice est tiré d un challenge Kaggle: [Natural Language Processing with Disaster Tweets 
