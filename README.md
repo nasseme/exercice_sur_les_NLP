@@ -75,12 +75,12 @@ l'utilisation d'algorithme de classification classic comme RandomForestClassifie
 
 ### çi dessous ce trouves les données pour l'apprentissages et la validation du modèle
 
-[-données d'entrainnement ](/DONN%C3%89ES/train.csv) <br>
-[-données de test ](/DONN%C3%89ES/test.csv) <br>
-[-données résultat(sample_submission) ](/DONN%C3%89ES/sample_submission.csv)  <br>
+[-données d'entrainnement ](/donnees/train.csv) <br>
+[-données de test ](/donnees/test.csv) <br>
+[-données résultat(sample_submission) ](/donnees/sample_submission.csv)  <br>
 
 
 ### çi dessous ce trouves les données résultant de notre modèle
 
-[-données prédiction par mon modèle final  ](/DONN%C3%89ES/submission_final.csv)
+[-données prédiction par mon modèle final  ](/donnees/submission_final.csv)
 
