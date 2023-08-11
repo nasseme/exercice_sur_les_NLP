@@ -45,7 +45,6 @@ Les algorithmes RandomForestClassifier, SVM (Support Vector Machine) et Multinom
 
 dans le graphes suivant on peut voir l'éfficacité de chaque modèle(celui qui se rapproche le plus de la réalité):
 ![](/images/1er%20parti.png)
-![](/images/2eme%20partie.png)
 
 
 [ LIEN DU CODE LA PARTIE: RFC,SVM ET MULTINOMIALNB  ](/codes/CLASSIC.ipynb) 
