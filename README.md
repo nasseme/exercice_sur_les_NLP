@@ -77,7 +77,7 @@ l'utilisation d'algorithme de classification classic comme RandomForestClassifie
 
 [-données d'entrainnement ](/DONN%C3%89ES/train.csv) <br>
 [-données de test ](/DONN%C3%89ES/test.csv) <br>
-[-données résultat(sample_submission) ](/DONN%C3%89ES/sample_submission.csv) <br>
+[-données résultat(sample_submission) ](/DONN%C3%89ES/sample_submission.csv)  <br>
 
 
 ### çi dessous ce trouves les données résultant de notre modèle
