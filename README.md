@@ -18,7 +18,7 @@ Cordialement,
 Nasseme Ahamed
 
 ## MÉMOIRE
-[LIEN VERS LE MÉMOIRE ](/Memoire.pdf)
+[LIEN VERS LE MÉMOIRE ](memoireupdate.pdf)
 
 ## INTRODUCTION
 le sujet de notre de notre exercice est tiré d'un challenge Kaggle: [Natural Language Processing with Disaster Tweets 
