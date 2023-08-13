@@ -35,7 +35,7 @@ En effet les premiers algorithmes qu'on va utiliser, nous permetterons d'avoir u
 
 ## DÉVELOPPEMENT 
 #### Observation des données:
-Nos données, comme on va le voir dans l'image suivante, sont composées d'identifiant(id) pour chaque tweet, du mot clé (keyword) du tweet, de texte (text) qui est le tweet lui même et enfin un target (0 ou 1). les target donne la nature du tweet( urgent==1 et normal==0). Cette étape m'a permis de comprendre la nature du problème et les caractéristiques des données
+Nos données, comme on va le voir dans l'image suivante, sont composées d'identifiant(id) pour chaque tweet, d' un mot clé (keyword) et du lieu d'émission (location), aussi du texte (text) qui est le tweet lui même et enfin un target (0 ou 1). les target donne la nature du tweet( urgent==1 et normal==0). Cette étape m'a permis de comprendre la nature du problème et les caractéristiques des données
 ![](/images/text.png)
 
 #### utilisation des méthodes dites classiques: RandomForestClassifier, SVM, et MultinomialNB:
