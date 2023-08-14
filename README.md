@@ -21,7 +21,7 @@ Nasseme Ahamed
 [LIEN VERS LE MÉMOIRE ](memoireupdate.pdf)
 
 ## INTRODUCTION
-le sujet de notre de notre exercice est tiré d'un challenge Kaggle: [Natural Language Processing with Disaster Tweets 
+le sujet de notre exercice est tiré d'un challenge Kaggle: [Natural Language Processing with Disaster Tweets 
 (Traitement automatique du langage naturel avec des tweets de catastrophe)](https://www.kaggle.com/competitions/nlp-getting-started).
 on est amené à présenter un algorithme de classification de tweets en catégories "urgent" et "normal". Nous proposerons plusieurs approches de classification afin de résoudre cette problématique.
 
