@@ -15,7 +15,7 @@ Dans cette page il y'a aussi les liens vers des notebooks Jupyter pour chaque m�
 
 Je suis engagé à maintenir et à mettre à jour cette page pour assurer sa pertinence et son utilité à la fois pour le challenge et pour ceux qui souhaitent en apprendre davantage sur les méthodes d'analyse de données et de traitement du langage naturel.
 
-Je remercie mes professeurs pour cette opportunité passionnante et j'attends avec impatience vos commentaires et suggestions.
+Je remercie mes professeurs pour cette opportunité passionnante et j'attends avec impatience vos commentaires et suggestions: nasseme2000@gmail.com .
 
 Cordialement,
 Nasseme Ahamed
