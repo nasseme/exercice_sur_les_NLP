@@ -2,7 +2,7 @@
 #### *Mon premier Projet sur les NLPs, pour mon mémoire de fin d'année  master 1 (2022-2023)*
 
 
-## Mise en œuvre et Github :
+## Mise en œuvre  :
 
 Pour rendre ma stratégie et mes codes accessibles à tous, j'ai créé cette page Github. 
 
