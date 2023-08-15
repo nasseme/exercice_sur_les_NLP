@@ -43,7 +43,7 @@ Nos données, comme on va le voir dans l'image suivante, sont composées d'ident
 ![](/images/text.png)
 
 #### utilisation des méthodes dites classiques: RandomForestClassifier, SVM, et MultinomialNB:
-RandomForestClassifier, SVM et MultinomialNB, sont pratiques pour l'initiation et l'application de la classification sur les NLPs. 
+RandomForestClassifier, SVM (Support Vector Machine) et MultinomialNB (Naive Bayes multinomial), sont pratiques pour l'initiation et l'application de la classification sur les NLPs. 
 Les algorithmes RandomForestClassifier, SVM (Support Vector Machine) et MultinomialNB (Naive Bayes multinomial) sont des techniques d'apprentissage automatique largement utilisées pour résoudre des problèmes de classification et d'analyse de données. Chacun de ces algorithmes possède ses propres caractéristiques et avantages, les rendant pertinents dans divers contextes. Nous examinerons individuellement chaque algorithme dans le contexte de l'analyse de texte et du traitement du langage naturel.
 
 Dans le graphique suivant, on peut observer l'efficacité de chaque modèle et identifier celui qui se rapproche le plus de la réalité :
