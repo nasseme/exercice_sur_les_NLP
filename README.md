@@ -7,10 +7,13 @@
 Pour rendre ma stratégie et mes codes accessibles à tous, j'ai créé cette page Github. 
 
 Sur cette page vous trouverez :
+
 la description  de ma stratégie et un lien vers mon mémoire pour plus de détails, expliquant les raisons derrière chaque choix méthodologique.
 dans le mémoire on y trouve la préparation des données, la modélisation avec les méthodes classiques, ainsi que l'utilisation de Tensorflow et Bert. Les résultats obtenus à chaque étape, y compris les performances des différents modèles.
+
 Dans cette page il y'a aussi les liens vers des notebooks Jupyter pour chaque méthode, les liens vers les données d'apprentissage, de test et vers les résultats de prédiction générés par mon modèle final.
-Je suis engagé à maintenir et mettre à jour cette page pour assurer sa pertinence et son utilité à la fois pour le challenge et pour ceux qui souhaitent en apprendre davantage sur les méthodes d'analyse de données et de traitement du langage naturel.
+
+Je suis engagé à maintenir et à mettre à jour cette page pour assurer sa pertinence et son utilité à la fois pour le challenge et pour ceux qui souhaitent en apprendre davantage sur les méthodes d'analyse de données et de traitement du langage naturel.
 
 Je remercie mes professeurs pour cette opportunité passionnante et j'attends avec impatience vos commentaires et suggestions.
 
@@ -25,7 +28,7 @@ le sujet de notre exercice est tiré d'un challenge Kaggle: [Natural Language Pr
 (Traitement automatique du langage naturel avec des tweets de catastrophe)](https://www.kaggle.com/competitions/nlp-getting-started).
 on est amené à présenter un algorithme de classification de tweets en catégories "urgent" et "normal". Nous proposerons plusieurs approches de classification afin de résoudre cette problématique.
 
-Le plan de developement de notre projet peu ce diviser en 3 grandes parties:
+Le plan de developement de notre projet peu se diviser en 3 grandes parties:
  - l'observation des données
  - l'utilisation des méthodes dites classiques: RandomForestClassifier, SVM,et MultinomialNB.
  - l'utilisation de Tensorflow et Bert
