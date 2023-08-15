@@ -34,7 +34,8 @@ Le plan de developement de notre projet peu se diviser en 3 grandes parties:
  - l'utilisation de Tensorflow et Bert
    
 En effet les premiers algorithmes qu'on va utiliser, nous permetterons d'avoir une première vision globale des problématique et solutions des NLPs.
-À travers Bert et tensorflow on va pouvoir utiliser l'approche du problème avec le Deep Learning. c'est les résultats de Tensorflow et Bert qu'on va retenir pour la réponse final du problème, du fait de la robustesse des algorithmes de Tensorflow et Bert Par rapport aux premiers algorithmes.
+À travers Bert et tensorflow on va pouvoir utiliser l'approche du problème avec le Deep Learning. 
+c'est les résultats de Tensorflow et Bert qu'on va retenir pour la réponse final du problème, du fait de la robustesse des algorithmes de Tensorflow et Bert Par rapport aux premiers algorithmes.
 
 ## DÉVELOPPEMENT 
 #### Observation des données:
